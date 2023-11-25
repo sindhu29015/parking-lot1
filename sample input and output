@@ -1,0 +1,21 @@
+sample input:
+Enter the size of the parking lot (in square footage): 2000
+Enter the number of cars: 4
+Enter license plate for car 1: ACE234
+Enter license plate for car 2: NMR546
+Enter license plate for car 3: KLE765
+Enter license plate for car 4: RI0632
+
+sample output:
+Car with license plate ACE234 parked successfully in spot 19.
+Car with license plate NMR546 parked successfully in spot 10.
+Car with license plate KLE765 parked successfully in spot 12.
+Car with license plate RI0632 parked successfully in spot 20.
+
+Parking Lot Mapping:
+{
+  "10": "NMR546",
+  "12": "KLE765",
+  "19": "ACE234",
+  "20": "RI0632"
+}
